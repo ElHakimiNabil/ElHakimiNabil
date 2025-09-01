@@ -1,49 +1,23 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTFnb3BpNXRzeno4MW12dzUyNDM5NDIxbHQ3cnh2bHVrZXk4YTJyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n1dFDLwXu4Qkwy7OJ0/giphy.gif"  />
-</div>
+| [![Reecho](https://img.shields.io/badge/COMPANY-REECHO-blue.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=nabil&color=green) | ![Followers](https://img.shields.io/github/followers/nabil) | ![Stars](https://img.shields.io/github/stars/nabil?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
 
-###
+<h1 align="center">Hi 👋, I'm Nabil</h1>
+<h3 align="center">Full Stack Developer at Reecho | .NET • React • Automation (n8n)</h3>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nabilelhakimi.nabilelhakimi"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋, I'm Nabil El Hakimi</h1>
-<h3 align="center">🚀 Fullstack Developer | .NET & React Specialist</h3>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">
-I'm Nabil El Hakimi, a passionate Fullstack Developer from Morocco.<br><br>
-- 🔭 Currently building modern fullstack applications with <b>.NET</b> and <b>React</b><br>
-- 📚 Always learning about cloud, DevOps, and scalable architectures<br>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nabil&label=Profile%20views&color=0e75b6&style=flat" alt="nabil" /> 
 </p>
 
-###
+- 🔭 I’m currently working on **full-stack projects at Reecho**  
+- ⚡ I specialize in **.NET (C#), React, and modern full-stack solutions**  
+- 🤖 I also build **automation workflows with n8n**  
+- 💬 Ask me about **.NET, React, APIs, automation, and full-stack best practices**  
+- 📫 How to reach me: **your.email@example.com**  
 
-<h3 align="left">🛠 Tech Stack</h3>
+<br><br>
 
-###
+[![trophy](https://github-profile-trophy.vercel.app/?username=nabil&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=nabil&theme=light&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=nabil&theme=light&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabil&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
