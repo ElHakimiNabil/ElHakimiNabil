@@ -15,9 +15,3 @@
 - 📫 How to reach me: **your.email@example.com**  
 
 <br><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nabil&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-readme-stats.vercel.app/api?username=nabil&theme=light&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=nabil&theme=light&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabil&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
