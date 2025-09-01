@@ -2,13 +2,13 @@
 --| --| --| --|
 
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">Full-Stack Developer at Reecho — .NET • React • Automation (n8n)</h3>
+<h3 align="center">Full-Stack Developer at Reecho — .NET • React • Automation</h3>
 
 - 🔭 Currently building **full-stack projects at Reecho**
 - ⚙️ Stack: **.NET (C#), React, REST/GraphQL, SQL**
 - 🤖 Automations with **n8n** (workflows, integrations, bots)
 - 💬 Ask me about **.NET, React, APIs, CI/CD, automation**
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **Hakimi.deve@gmail.com**
 
 <br/>
 
