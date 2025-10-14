@@ -11,7 +11,7 @@
       <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
         <h3 style="margin: 0;">I'm a dotnet Software Developer</h3>
         <div>
- <a href="https://www.linkedin.com/in/mbarek-elaadraoui/" target="_blank">
+ <a href="https://www.linkedin.com/in/nabil-el-hakimi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
         </div>
